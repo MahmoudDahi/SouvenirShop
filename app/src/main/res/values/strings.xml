@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Souvenir Shop</string>
+    <string name="location">Alexandria -Egypt</string>
+    <string name="contact">0954632185\n0952314568</string>
+    <string name="description">a store primarily selling souvenirs, memorabilia, and other items relating to a particular topic or theme. The items sold often include coffee mugs , t-shirts, postcards, handmade collections and other souvenirs</string>
+    <string name="hours">Open From 9:00 To 19:00 (UTC+2:00)</string>
+    <string name="hours_name">Hours :</string>
+    <string name="description_name">Description :</string>
+    <string name="Address_name">Address :</string>
+    <string name="Contact_name">Contact :</string>
+    <string name="myimage_description">image from Souvenir Shop</string>
+</resources>
